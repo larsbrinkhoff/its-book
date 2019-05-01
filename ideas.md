@@ -61,6 +61,56 @@
   - HAKMEM, JARGON, Hackers' Dictionary
   - PCLSR
 
+### Victims
+
+  - Richard Greenblatt
+  - Tom Knight
+  - Stu Nelson?
+  - Michael Beeler
+  - Donald Eastlake
+  - Berthold Horn
+  - Henry Lieberman
+  - Larry Krakauer
+  - Stan Kugell
+  - Carl Mikkelsen
+  - Samson?
+  - Schroeppel
+  - Gosper
+  - Ed Schwalenberg
+  - Michael Speciner
+  - Winston?
+  - Moses?
+  - Winograd
+
+  - Jack Haverty
+  - David Lebling
+  - Tim Anderson
+  - Bob Bressler?
+  - Greg Thompson
+  - Metcalfe
+
+  - Guy Steele
+  - David Moon
+  - Ken Harrenstien
+  - Charles Frankston
+  - Alan Bawden
+  - Pandora Berman
+  - James Kulp
+  - John Kulp
+  - Ian Macky
+  - Henry Minsky
+  - McCullough
+  - Kent Pitman
+  - Christopher Stacy
+
+  - Hal Abelson
+  - Klotz
+  - Radia Perlman
+  - Bonnie Dalzell
+  - Ron Lebel
+
+  - Peter Löthberg
+
 ### Sources
 
   - Project MAC Progress Reports
